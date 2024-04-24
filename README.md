@@ -1,2 +1,5 @@
 # LixeiraProcessing
-O projeto é de uma lixeira 2D e 3D desenvolvidas utilizando o Processing.
+
+O trabalho é de uma lixeira 2D e 3D 
+
+💻 Projeto desenvolvido no Processing.
